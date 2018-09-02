@@ -4,10 +4,10 @@ Provides: perl
 Replaces: perl
 Version: 5.22.0
 Architecture: iphoneos-arm
-Maintainer: CoolStar <kcinnovations4@gmail.com>
+Maintainer: CoolStar 
 Section: Development
 Tag: purpose::console, role::hacker
-Filename: ./debs/org.coolstar.perl_5.22.0_iphoneos-arm.deb
+Filename: debs/org.coolstar.perl_5.22.0_iphoneos-arm.deb
 Size: 17765778
 MD5sum: d07f58aedb64c3bd79ce63accd55578c
 
@@ -20,6 +20,6 @@ Description: Bring back the iOS 6 badges to iOS 7+!
 Maintainer: CoolStar
 Author: CoolStar
 Section: Tweaks
-Filename: ./debs/org.coolstar.classicbadges.deb
+Filename: debs/org.coolstar.classicbadges.deb
 Size: 5572
 MD5sum: 43933090233259615842c2ff89db1719
