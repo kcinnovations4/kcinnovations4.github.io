@@ -1,0 +1,8 @@
+Origin: kcinnovations
+Label: CoolStar's Repo
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Codename: kcinnovations
+Description: kcinnovations Tweaks and other utilities for iOS
